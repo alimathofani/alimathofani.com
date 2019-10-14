@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  font-family: Inconsolata;
+  background: #ddb9b9;
+  color: #2f3b4e; }
+
+main {
+  padding: 5em 0 1em 0; }
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0; }
+
+li {
+  margin: 10px; }
+
+h1 {
+  font-family: Inconsolata; }
+
+h4 {
+  padding-top: 2em; }
+
+a {
+  color: #365c5b; }
+
+a:hover, a:focus {
+  font-weight: bold; }
+
+p {
+  padding-top: 1em; }
+

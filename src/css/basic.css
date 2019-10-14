@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    font-family: Inconsolata;
+    background: #c0b9dd;
+    color: #2f3b4e;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+
+li {
+    margin: 10px;
+}
+
+h1 {
+    font-family: Karla;
+}
+
+a { 
+    color: #365c5b;
+}
+
+a:hover, a:focus {
+    font-weight: bold;
+}
